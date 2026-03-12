@@ -1,0 +1,4 @@
+gyp==0.1
+setuptools==68.1.2
+six==1.16.0
+wheel==0.42.0
