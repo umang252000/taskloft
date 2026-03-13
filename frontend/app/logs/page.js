@@ -10,7 +10,7 @@ export default function Logs() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    axios.get("https://8000--019ce2a4-10b7-7096-800f-dccef1e95e43.us-east-1-01.gitpod.dev/logs")
+    axios.get("https://taskloft.onrender.com/logs")
       .then(res => {
         setLogs(res.data)
         setLoading(false)
