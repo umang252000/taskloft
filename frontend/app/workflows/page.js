@@ -26,7 +26,7 @@ export default function Workflows() {
 
     try {
       const res = await axios.post(
-        "https://8000--019ce2a4-10b7-7096-800f-dccef1e95e43.us-east-1-01.gitpod.dev/run-procurement",
+        "https://taskloft.onrender.com/run-procurement",
         null,
         { params: { product } }
       )
