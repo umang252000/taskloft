@@ -282,7 +282,7 @@ Features:
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/taskloft
+git clone https://github.com/umang252000/taskloft
 ```
 
 Navigate into project:
